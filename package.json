@@ -1,0 +1,50 @@
+{
+    "name": "workspace",
+    "displayName": "mingge's Workspacee",
+    "description": "A fast way to setup workspace!",
+    "version": "0.0.1",
+    "publisher": "mingge",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "austin.code-gnu-global", 
+        "bbenoist.QML", 
+        "bot-man.vs-keybindings", 
+        "bot-man.workspace", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "emmanuelbeziat.vscode-great-icons", 
+        "fabiospampinato.vscode-commands", 
+        "jakearl.search-editor-apply-changes", 
+        "jebbs.plantuml", 
+        "mhutchie.git-graph", 
+        "ms-python.python", 
+        "ms-python.vscode-pylance", 
+        "ms-toolsai.jupyter", 
+        "ms-vscode-remote.remote-containers", 
+        "ms-vscode-remote.remote-ssh", 
+        "ms-vscode-remote.remote-ssh-edit", 
+        "ms-vscode-remote.remote-ssh-explorer", 
+        "ms-vscode-remote.remote-wsl", 
+        "ms-vscode-remote.vscode-remote-extensionpack", 
+        "ms-vscode.cmake-tools", 
+        "ms-vscode.cpptools", 
+        "ms-vscode.hexeditor", 
+        "msjsdiag.debugger-for-chrome", 
+        "npxms.hide-gitignored", 
+        "octref.vetur", 
+        "ritwickdey.LiveServer", 
+        "Shan.code-settings-sync", 
+        "sirmspencer.vscode-autohide", 
+        "slevesque.vscode-hexdump", 
+        "tht13.python", 
+        "twxs.cmake", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "vscode-icons-team.vscode-icons", 
+        "Wscats.eno"
+    ]
+}
